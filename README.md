@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋 , soy Luis Cataldo</h1>
+### Hey  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://www.linkedin.com/in/luis-cataldo/">
+  <img align="left" alt="Luis Cataldo Linkedin" width="22px" target="_blank" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 <h3 align="center">Un apasionado desarrollador fullstack de argentina</h3>
 <
 p align="left"> <img src="https://komarev.com/ghpvc/?username=luigi3357&label=Profile%20views&color=0e75b6&style=flat" alt="luigi3357" /> </p>
@@ -13,7 +17,6 @@ p align="left"> <img src="https://komarev.com/ghpvc/?username=luigi3357&label=Pr
 
 - 💬 Pregúntame sobre **ract,redux,node.js,express,sequelize,postgresSQL**
 
-- 📫 Cómo contactarme **luigi33579@gmail.com**
 
 - 📄 Conoce mis experiencias [https://www.linkedin.com/in/luis-cataldo/](https://www.linkedin.com/in/luis-cataldo/)
 
@@ -29,3 +32,5 @@ p align="left"> <img src="https://komarev.com/ghpvc/?username=luigi3357&label=Pr
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luigi3357&show_icons=true&locale=en" alt="luigi3357" /></p>
 
+- 💼 Contact E-mail : luigi33579@gmail.com :)
+- 💬 Lets talk !
